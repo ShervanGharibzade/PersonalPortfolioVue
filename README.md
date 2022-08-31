@@ -1,5 +1,8 @@
 # profile
 
+Tokto is project about disgners and use tenologies vue and tailwindcss.
+Tokto is spa application , i use vux for information personnel (img , name , job title ,...) , and tailwindcss for reposive web disgn.
+
 ## Project setup
 ```
 npm install
